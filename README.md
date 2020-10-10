@@ -8,7 +8,7 @@ A product management API application made with Node.js and Serverless with CRUD 
 
 1. Clone o repositório git clone `git@github.com:dev-mariana/projeto.git`.
 
-   Use git clone in the repository git clone git@github.com:dev-mariana/projeto.git.
+   Use git clone in the repository git clone `git@github.com:dev-mariana/projeto.git`.
 
 2. Entre no diretório e instale as dependências `npm install`.
 
