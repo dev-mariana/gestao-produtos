@@ -1,8 +1,7 @@
 # API de Gestão de Produtos com Serverless - Product Management API with Serverless
 
-Uma aplicação de API de gestão de produtos feita com Node.js e Serverless com CRUD feito no MongoDB.
-
-A product management API application made with Node.js and Serverless with CRUD made in MongoDB.
+<p align="center">Uma aplicação de API de gestão de produtos feita com Node.js e Serverless com CRUD feito no MongoDB.</p>
+<p align="center">A product management API application made with Node.js and Serverless with CRUD made in MongoDB.</p>
 
 # Dependências - Dependencies
 
