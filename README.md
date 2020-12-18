@@ -1,15 +1,15 @@
-# API de Gestão de Produtos com Serverless - Product Management API with Serverless
+# <h2>API de Gestão de Produtos com Serverless - Product Management API with Serverless</h2>
 
 <p align="center">Uma aplicação de API de gestão de produtos feita com Node.js e Serverless com CRUD feito no MongoDB.</p>
 <p align="center">A product management API application made with Node.js and Serverless with CRUD made in MongoDB.</p>
 
-# Dependências - Dependencies
+# <h2>Dependências - Dependencies</h2>
 
 * MongoDB
 * Azure Functions
 * Azure Functions Core Tools
 
-# Instalação - Installation
+# <h2>Instalação - Installation</h2>
 
 1. Clone o repositório git clone `git@github.com:dev-mariana/projeto.git`.
 
